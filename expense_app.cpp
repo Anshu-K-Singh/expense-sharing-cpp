@@ -1,9 +1,7 @@
 /*
 ===============================================================================
     EXPENSE SHARING APPLICATION - C++ CLI
-    
-    A beginner-friendly expense splitting application for interviews
-    
+
     Features:
     - User registration and login
     - Three split methods:  EQUAL, EXACT, PERCENTAGE
