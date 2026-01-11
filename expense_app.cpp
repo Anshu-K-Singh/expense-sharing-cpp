@@ -948,7 +948,7 @@ int main() {
 
     cout << "\n╔════════════════════════════════════════╗" << endl;
     cout << "║  EXPENSE SHARING APPLICATION - C++     ║" << endl;
-    cout << "║  Perfect for Beginner Interviews!       ║" << endl;
+    cout << "║  !                                     ║" << endl;
     cout << "╚════════════════════════════════════════╝" << endl;
 
     while (running) {
